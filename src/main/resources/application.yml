@@ -10,7 +10,7 @@ spring:
       ddl-auto: update
     show-sql: true
   application:
-    name: CALIFICATION-SERVICE
+    name: HOTEL-SERVICE
 eureka:
   instance:
     prefer-ip-address: true
